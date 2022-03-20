@@ -1,13 +1,7 @@
 <!-- markdownlint-disable MD032 MD033-->
 # **Booking Telegram Bot**
-> Node.JS - based system, for using as small appointment book in business or parties.
 
-<div align="center">
-  <a href="https://github.com/KoninMikhail/booking-telegram-bot">
-    <img width="100%" src="https://storage.mkonin.ru/static/github/projects/booking-telegram-bot/repo/images/booking-telegram-bot__cover.png" alt="@koninmikhail/booking-telegram-bot cover">
-  </a>
-  <br /><br />
-  <a href="#">
+<a href="#">
       <img src="https://img.shields.io/badge/build-alpha-blue?style=for-the-badge&color=red" alt="@koninmikhail/booking-telegram-bot current release">
    </a>
   <a href="https://github.com/KoninMikhail/booking-telegram-bot/issues">
@@ -19,6 +13,14 @@
   <a href="https://github.com/KoninMikhail/booking-telegram-bot/generate">
     <img src="https://img.shields.io/badge/use%20this-bot-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@koninmikhail/booking-telegram-bot link to create a new repository from the template">
   </a>
+
+<div align="center">
+  <a href="https://github.com/KoninMikhail/booking-telegram-bot">
+    <img width="100%" src="https://storage.mkonin.ru/static/github/projects/booking-telegram-bot/repo/images/booking-telegram-bot__cover.png" alt="@koninmikhail/booking-telegram-bot cover">
+  </a>
+  <br /><br />
+
+> Node.JS - based system, for using as small appointment book in business or parties.
 
 </div>
 
