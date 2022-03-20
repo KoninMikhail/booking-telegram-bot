@@ -5,6 +5,7 @@
   <a href="https://github.com/KoninMikhail/booking-telegram-bot">
     <img width="100%" src="https://storage.mkonin.ru/static/github/projects/booking-telegram-bot/repo/images/booking-telegram-bot__cover.png" alt="@koninmikhail/booking-telegram-bot cover">
   </a>
+  <br /><br />
   <a href="#">
       <img src="https://img.shields.io/badge/build-alpha-blue?style=for-the-badge&color=red" alt="@koninmikhail/booking-telegram-bot current release">
    </a>
