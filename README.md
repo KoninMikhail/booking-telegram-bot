@@ -24,9 +24,25 @@
 
 </div>
 
-<br>
+> The readme below is the documentation for the v1 (stable) version of Bottender. To view the documentation:
+>
+> - for the latest Bottender version (v1.x), visit https://bottender.js.org/docs/
+> - for the legacy Bottender version (v0.15), visit https://bottender.js.org/docs/0.15.17/
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+- **Declarative** - Bottender takes care of the complexity of conversational UIs for you. Design actions for each event and state in your application, and Bottender will run accordingly. This approach makes your code more predictable and easier to debug.
+
+- **Native User Experience** - Bottender lets you create apps on every channel and never compromise on your users’ experience. You can apply progressive enhancement or graceful degradation strategy on your building blocks.
+
+- **Easy Setup** - With Bottender, you only need a few configurations to make your bot work with channels, automatic server listening, webhook setup, signature verification and so much more.
+
+- **Ready for Production** - There are thousands of bots powered by Bottender. It has been optimized for real world use cases, automatic batching request and dozens of other compelling features.
+
+Bottender is built on top of
+[Messaging APIs](https://github.com/).
+
+
+## Request features ⚡
+>Use [issue](https://github.com/koninmikhail/social-analytics-dashboard-template/issues) and follow the rules :)
 
 ## Request features ⚡
 >Use [issue](https://github.com/koninmikhail/social-analytics-dashboard-template/issues) and follow the rules :)
