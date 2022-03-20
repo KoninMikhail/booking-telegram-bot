@@ -22,10 +22,7 @@
 
 </div>
 
-> The readme below is the documentation for the v1 (stable) version of Bottender. To view the documentation:
->
-> - for the latest Bottender version (v1.x), visit https://bottender.js.org/docs/
-> - for the legacy Bottender version (v0.15), visit https://bottender.js.org/docs/0.15.17/
+# **What problems does the bot solve?**
 
 - **Declarative** - Bottender takes care of the complexity of conversational UIs for you. Design actions for each event and state in your application, and Bottender will run accordingly. This approach makes your code more predictable and easier to debug.
 
