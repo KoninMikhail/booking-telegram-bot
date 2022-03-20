@@ -32,12 +32,6 @@
 
 - **Ready for Production** - There are thousands of bots powered by Bottender. It has been optimized for real world use cases, automatic batching request and dozens of other compelling features.
 
-Bottender is built on top of
-[Messaging APIs](https://github.com/).
-
-
-## Request features ⚡
->Use [issue](https://github.com/koninmikhail/social-analytics-dashboard-template/issues) and follow the rules :)
 
 ## Request features ⚡
 >Use [issue](https://github.com/koninmikhail/social-analytics-dashboard-template/issues) and follow the rules :)
