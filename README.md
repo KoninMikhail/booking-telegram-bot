@@ -1,0 +1,68 @@
+<!-- markdownlint-disable MD032 MD033-->
+# **Booking Telegram Bot**
+> Node.JS - based system, for using as small appointment book in business or parties.
+
+<div align="center">
+  <a href="https://github.com/KoninMikhail/booking-telegram-bot">
+    <img width="100%" src="https://storage.mkonin.ru/static/github/projects/booking-telegram-bot/repo/images/booking-telegram-bot__cover.png" alt="@koninmikhail/booking-telegram-bot cover">
+  </a>
+  <br /><br />
+  <a href="#">
+      <img src="https://img.shields.io/badge/build-alpha-blue?style=for-the-badge&color=red" alt="@koninmikhail/booking-telegram-bot current release">
+   </a>
+  <a href="https://github.com/KoninMikhail/booking-telegram-bot/issues">
+    <img src="https://img.shields.io/github/issues/koninmikhail/booking-telegram-bot?color=0088ff&style=for-the-badge&logo=github" alt="@koninmikhail/social analytics dashboard issues"/>
+  </a>
+  <a href="https://github.com/KoninMikhail/booking-telegram-bot/pulls">
+    <img src="https://img.shields.io/github/issues-pr/koninmikhail/booking-telegram-bot?color=0088ff&style=for-the-badge&logo=github"  alt="@koninmikhail/booking-telegram-bot/pulls analytics dashboard pull requests"/>
+  </a>
+  <a href="https://github.com/KoninMikhail/booking-telegram-bot/generate">
+    <img src="https://img.shields.io/badge/use%20this-bot-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@koninmikhail/booking-telegram-bot link to create a new repository from the template">
+  </a>
+
+</div>
+
+
+<br /><br />
+
+<img align="left" src="https://storage.mkonin.ru/static/github/common/iconpack/contributors.png" width="50px" />
+
+## Contributors
+I am <3 contributions big or small. If you help my project --> 🍰**link to your profile will be here**🍰.
+
+<a href="https://github.com/koninmikhail/booking-telegram-bot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=koninmikhail/booking-telegram-bot" />
+</a>
+
+<br /><br />
+
+<img align="left" src="https://storage.mkonin.ru/static/github/common/iconpack/coffee.png" width="50px" />
+
+## Buy Me A Coffee
+<a href="https://github.com/koninmikhail/booking-telegram-bot/generate">
+  <img alt="@koninmikhail/Booking Telegram Bot Author brand logo without text" align="right" src="https://storage.mkonin.ru/static/github/common/logo/logo.png" width="25%" />
+</a>
+
+Currently I'm seeking for new sponsors to help maintain this project! ❤️
+
+With every donation you make - you're helping with development of this project. *You will be also featured in project's README.md*, so everyone will see your contribution and visit your content⭐.
+
+<a href="https://yoomoney.ru/to/410011749810070">
+  <img src="https://storage.mkonin.ru/static/github/projects/booking-telegram-bot/repo/sponsor/sponsor.svg">
+</a>
+
+#### OR CLICK BUTTON
+
+[![GitHub followers](https://img.shields.io/github/followers/koninmikhail.svg?style=social)](https://github.com/koninmikhail)
+[![GitHub stars](https://img.shields.io/github/stars/koninmikhail/booking-telegram-bot.svg?style=social)](https://github.com/koninmikhail/booking-telegram-bot/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/koninmikhail/booking-telegram-bot.svg?style=social)](https://github.com/koninmikhail/booking-telegram-bot/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/koninmikhail/booking-telegram-bot.svg?style=social)](https://github.com/koninmikhail/booking-telegram-bot/network/members)
+
+<br /><br />
+
+<img align="left" src="https://storage.mkonin.ru/static/github/common/iconpack/law.png" width="50px" />
+
+## **License and Changelog**
+
+>Copyright (c) 2022, Mikahil Konin.
+>This project under **[MIT](LICENSE)** license. See the changes in the **[CHANGELOG.md](CHANGELOG.md)** file.
