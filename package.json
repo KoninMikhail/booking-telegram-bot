@@ -9,6 +9,8 @@
     "jsdoc": "^3.6.10"
   },
   "scripts": {
+    "dev": "nodemon ./src/bot",
+    "lint:js": "eslint --ext .js src/js/",
     "lint:sass": "sass-lint -v -q",
     "lint:js": "eslint --ext .js src/js/",
     "release": "standard-version",
