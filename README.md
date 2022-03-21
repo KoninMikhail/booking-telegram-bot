@@ -40,13 +40,11 @@
 >The data from repository is provided an "As is", without any guarantees. All the data provided is used at your own risk.
 **If you want report a bug** - use [issue](https://github.com/KoninMikhail/social-analytics-dashboard-template/issues)
 
-<div align="center">
-  <a href="https://github.com/KoninMikhail/booking-telegram-bot">
-    <img width="100%" src="https://storage.mkonin.ru/static/github/projects/booking-telegram-bot/repo/images/table_content.jpg" alt="@koninmikhail/booking-telegram-bot cover">
-  </a>
-  <br /><br />
+<br /><br />
 
-</div>
+<img align="left" src="https://storage.mkonin.ru/static/github/common/iconpack/menu.png" width="50px" />
+
+## TABLE OF CONTENTS
 
 - [General](#what-is-this-template-all-about)
     - [Request feature](#request-features-)
