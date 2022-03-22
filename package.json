@@ -12,7 +12,6 @@
     "dev": "nodemon ./src/bot",
     "lint:js": "eslint --ext .js src/js/",
     "lint:sass": "sass-lint -v -q",
-    "lint:js": "eslint --ext .js src/js/",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
     "release:patch": "standard-version --release-as patch",
@@ -20,7 +19,6 @@
     "prepare": "husky install .config/husky"
   },
   "dependencies": {
-    "nodemon": "^2.0.15",
-    "telegraf": "^4.7.0"
+    "nodemon": "^2.0.15"
   }
 }
